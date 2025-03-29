@@ -15,7 +15,6 @@ int main(){
 	int reta; //Variável para declarar as coordenadas dos návios que estão na horizontal e vertical 
 	
 	
-	
 	printf("   ");//Alinha as letras com os espaçamentos dos numeros
 	for(i=0; i<Linhas; i++)//Esse loop unico mantem as letras do vetor sobre o tabuleiro/matriz como um cabeçalho
 	{
